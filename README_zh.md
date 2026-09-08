@@ -47,13 +47,13 @@
 
 用于查询实时搜索结果、发掘高价值长尾词、分析搜索意图（Search Intent）并评估竞争难度的核心工具。
 
-- **[SERPScoreLite](https://serpscorelite.com/)** - 免费、免注册的轻量级 SEO 工具箱，基于实时 Google SERP 分析与 Ahrefs DR 权威信号提供关键词难度（KD）评分、URL 流量潜力预估及域名对比。
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Google 官方免费工具，提供最权威的搜索量历史基数、季节趋势及商业 CPC 参考。
+- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - Ahrefs 免费工具，可针对目标词免费生成最多 150 个关键词建议及难度评分。
+- [Semrush Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - 拥有超大规模关键词库，支持意图过滤与提问词筛选。
 - [AnswerThePublic](https://answerthepublic.com/) - 基于真实搜索联想，将用户的提问（Why/How/What）、介词搭配可视化展现的长尾词挖掘工具。
 - [Keyword Tool](https://keywordtool.io/) - 利用 Google、YouTube、Bing、Amazon 等搜索引擎自动联想功能挖掘海量长尾词。
 - [LowFruits](https://lowfruits.io/) - 蓝海长尾词挖掘神器，专用于发现大站未覆盖、论坛（Reddit/Quora）主导的高机会低难度词。
-- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - Ahrefs 免费工具，可针对目标词免费生成最多 150 个关键词建议及难度评分。
-- [Semrush Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - 拥有超大规模关键词库，支持意图过滤与提问词筛选。
+- [SERPScoreLite](https://serpscorelite.com/) - 轻量级 SEO 工具箱，基于实时 Google SERP 分析与 Ahrefs DR 权威信号提供免费关键词难度（KD）评分、URL 流量预估及域名对比。
 - [KeySearch](https://www.keysearch.co/) - 亲民的高性价比关键词难度查询、LSI 词挖掘与竞品关键词差距分析工具。
 - [WordStream Free Keyword Tool](https://www.wordstream.com/keywords) - 快速关键词发掘工具，支持按行业筛选及搜索量对比。
 - [kwrds.ai](https://www.kwrds.ai/) - 专注于长尾问题与搜索意图探索的关键词生成器。

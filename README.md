@@ -47,13 +47,13 @@ Industry-standard suites covering keyword research, competitive intelligence, ba
 
 Tools to inspect live search results, identify high-potential search queries, uncover search intent, and assess competition.
 
-- **[SERPScoreLite](https://serpscorelite.com/)** - Free, no-account-required lightweight SEO toolkit featuring a live Google SERP checker, keyword difficulty scoring backed by authority signals, URL traffic estimation, and side-by-side domain comparisons.
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Official Google tool providing baseline historical search volumes, seasonal trends, and commercial CPC forecasts.
+- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - Free tool generating up to 150 keyword suggestions and difficulty scores for any target seed term.
+- [Semrush Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Search through a multi-billion keyword database with flexible intent filtering and question matching.
 - [AnswerThePublic](https://answerthepublic.com/) - Visualizes search queries, prepositions, questions, and alphabetical long-tail variations directly from user search queries.
 - [Keyword Tool](https://keywordtool.io/) - Generates thousands of long-tail keywords using autocomplete across Google, YouTube, Bing, Amazon, and more.
 - [LowFruits](https://lowfruits.io/) - Specialized keyword finder for uncovering uncompetitive low-hanging fruit keywords and forum-dominated SERPs.
-- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - Free tool generating up to 150 keyword suggestions and difficulty scores for any target seed term.
-- [Semrush Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Search through a multi-billion keyword database with flexible intent filtering and question matching.
+- [SERPScoreLite](https://serpscorelite.com/) - Lightweight SEO toolkit featuring a free live Google SERP checker, keyword difficulty scoring backed by authority signals, URL traffic estimation, and domain comparisons.
 - [KeySearch](https://www.keysearch.co/) - Affordable keyword difficulty checker, LSI keyword finder, and competitor keyword gap tool.
 - [WordStream Free Keyword Tool](https://www.wordstream.com/keywords) - Fast keyword discovery tool with industry-based filtering and competitive search volume metrics.
 - [kwrds.ai](https://www.kwrds.ai/) - Keyword idea and search question generator tailored for content ideation.
